@@ -31,6 +31,7 @@ UI/UX: Material Design
 Libraries: ZXing (QR), PDF Export, Glide/Picasso (Image Handling)
 
 📸 Screenshots:
+
 ![input page](https://github.com/user-attachments/assets/c6ba39c0-96fd-4559-aed1-d7e4eaae7ed5)
 ![home screen](https://github.com/user-attachments/assets/8f679233-9c56-47fd-830c-cf838db67593)
 ![qr](https://github.com/user-attachments/assets/64ee3c53-fc74-4817-b34e-937b335f29a4)
@@ -38,4 +39,5 @@ Libraries: ZXing (QR), PDF Export, Glide/Picasso (Image Handling)
 ![scanner](https://github.com/user-attachments/assets/3fa92fc8-9a77-4ae3-98dc-9570220723af)
 ![scanner](https://github.com/user-attachments/assets/af5464c8-31c1-437d-9a70-9d41b6d3399b)
 ![saved cards](https://github.com/user-attachments/assets/b4fba2cd-9ef9-4589-b13d-ea8095ffa6a0)
-![share](https://github.com/user-attachments/assets/0b7cdf07-a8bf-4c15-b53b-78e0d4186252)
+![share](https://github.com/user-attachments/assets/ef50bd33-2f66-4feb-94b7-a626682900e7)
+
