@@ -22,12 +22,8 @@ All data is stored locally on the device for quick access and privacy.
 
 🛠 Tech Stack:
 Language: Kotlin
-
 Framework: Android SDK
-
-
 UI/UX: Material Design
-
 Libraries: ZXing (QR), PDF Export, Glide/Picasso (Image Handling)
 
 📸 Screenshots:
