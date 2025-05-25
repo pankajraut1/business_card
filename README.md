@@ -29,7 +29,7 @@ Libraries: ZXing (QR), PDF Export, Glide/Picasso (Image Handling)
 📸 Screenshots:
 
 ![input page](https://github.com/user-attachments/assets/c6ba39c0-96fd-4559-aed1-d7e4eaae7ed5)
-![home screen](https://github.com/user-attachments/assets/8f679233-9c56-47fd-830c-cf838db67593)
+![home screen](https://github.com/user-attachments/assets/337ff2aa-6970-40db-a202-e9234e0f71df)
 ![qr](https://github.com/user-attachments/assets/64ee3c53-fc74-4817-b34e-937b335f29a4)
 ![qr result](https://github.com/user-attachments/assets/1345c22d-c337-4dae-bf0a-dae52ea52158)
 ![scanner](https://github.com/user-attachments/assets/3fa92fc8-9a77-4ae3-98dc-9570220723af)
