@@ -1,0 +1,26 @@
+<resources>
+    <color name="black">#0D0D0D</color> <!-- Rich deep black -->
+    <color name="white">#F5F7FA</color> <!-- Soft off-white, easy on the eyes -->
+
+    <color name="accent">#3F51B5</color> <!-- Indigo 500 – sleek, professional, subtle vibrancy -->
+
+    <!-- Backgrounds -->
+    <color name="cardBackground">#FFFFFF</color> <!-- True white for cards, clean contrast -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#1A237E</color> <!-- Deep indigo – readable, classy -->
+    <color name="textSecondary">#607D8B</color> <!-- Blue-gray – calm, ideal for hints -->
+    <color name="textTitle">#0B0F28</color> <!-- Blue-black tone for strong titles -->
+    <color name="textOnAccent">#FFFFFF</color> <!-- Standard white for button text on accent -->
+
+    <!-- Divider / Border -->
+    <color name="divider">#DDE2E8</color> <!-- Very soft gray, clean lines -->
+
+    <!-- Buttons -->
+    <color name="buttonBackground">#3F51B5</color> <!-- Same as accent for consistency -->
+    <color name="buttonText">#FFFFFF</color>
+
+    <color name="linkColor">#00ACC1</color> <!-- Teal 600 – modern, energetic for links/icons -->
+    <color name="iconColor">@color/black</color> <!-- Blue-gray 800 – subtle and neutral -->
+    <color name="saveName">#FFEB3B</color>
+</resources>

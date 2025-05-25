@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Details"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="@color/black" />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/edittext"
+        android:hint="Name:"
+        android:textColorHint="@color/textSecondary"
+        android:padding="10dp"
+        android:inputType="textCapWords"
+        android:layout_below="@id/title"/>
+
+    <EditText
+        android:id="@+id/occupation"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/name"
+        android:layout_margin="10dp"
+        android:background="@drawable/edittext"
+        android:hint="Occupation:"
+        android:textColorHint="@color/textSecondary"
+        android:padding="10dp"
+        android:inputType="textCapWords" />
+    <EditText
+        android:id="@+id/address"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/occupation"
+        android:layout_margin="10dp"
+        android:background="@drawable/edittext"
+        android:hint="Address:"
+        android:textColorHint="@color/textSecondary"
+        android:padding="10dp"
+        android:inputType="textPostalAddress" />
+
+
+    <EditText
+        android:id="@+id/phoneno"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/address"
+        android:layout_margin="10dp"
+        android:background="@drawable/edittext"
+        android:hint="Phone No:"
+        android:textColorHint="@color/textSecondary"
+        android:padding="10dp"
+        android:inputType="phone"
+        android:importantForAutofill="no"
+        android:autofillHints="phoneNumber" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/phoneno"
+        android:layout_margin="10dp"
+        android:background="@drawable/edittext"
+        android:hint="Email:"
+        android:textColorHint="@color/textSecondary"
+        android:padding="10dp"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/instagram"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/email"
+        android:layout_margin="10dp"
+        android:background="@drawable/edittext"
+        android:hint="Instagram:"
+        android:textColorHint="@color/textSecondary"
+        android:padding="10dp"
+        android:inputType="textUri" />
+
+    <EditText
+        android:id="@+id/website"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/instagram"
+        android:layout_margin="10dp"
+        android:background="@drawable/edittext"
+        android:hint="Website or Portfolio:"
+        android:textColorHint="@color/textSecondary"
+        android:padding="10dp"
+        android:inputType="textUri" />
+
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/website"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="16dp"
+        android:text="Submit and save"
+        android:textSize="16sp"
+        android:textColor="@color/buttonText"
+        android:background="@drawable/btn2" />
+
+
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VISITINGCARD" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your colors if needed -->
+    </style>
+</resources>
